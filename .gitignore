@@ -1,0 +1,12 @@
+*.log
+*.pyc
+.pytest_cache
+.ipynb_checkpoints
+venv
+
+
+# for folder ./twisted-intro
+twistd.log*
+twistd.pid
+_trial_temp
+twisted-intro/twisted/plugins/dropin.cache
